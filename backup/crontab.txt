@@ -1,0 +1,1 @@
+*/1 * * * * /bin/bash /backups/backup.sh >> /var/log/backup.log 2>&1
