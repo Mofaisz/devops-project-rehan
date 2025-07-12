@@ -24,6 +24,9 @@ devops-task/
 
 > Note: Endpoints are accessed via **Nginx (port 80)**
 
+### 🔹 Order Service Response
+![Order List](screenshots/order-list.png "Order Microservice Sample Output")
+
 ###  Example Usage
 
 ```bash
