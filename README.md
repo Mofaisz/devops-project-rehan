@@ -25,7 +25,13 @@ devops-task/
 > Note: Endpoints are accessed via **Nginx (port 80)**
 
 ### 🔹 Order Service Response
-![Order List](screenshots/order-list.png "Order Microservice Sample Output")
+![Order List](screenshots/order-rename.png "Order Microservice Sample Output")
+
+### 🔹 Auth Service Response
+![Auth Login](screenshots/auth-login.png)
+
+### 🔹 Running Docker Containers
+![Docker PS](screenshots/docker-ps.png "Active Services via docker ps")
 
 ###  Example Usage
 
@@ -38,7 +44,7 @@ curl http://localhost/orders/
 ![Auth Login](screenshots/auth-login.png)
 
 ### 🔹 Order Service Response
-![Order List](screenshots/order-list.png "Order Microservice Sample Output")
+![Order List](screenshots/order-rename.png "Order Microservice Sample Output")
 
 ## Technologies Used
 
